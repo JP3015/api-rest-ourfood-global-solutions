@@ -1,5 +1,5 @@
 ### API REST, OURFOOD
-OURFOOD surgiu com o propósito de diminuir o desperdício de alimentos e reduzir a fome no mundo, esta API será parte da solução.
+OURFOOD surgiu com o propósito de diminuir o desperdício de alimentos e reduzir a fome no mundo :-).
 
 ## SOLUÇÃO
 Para atingir esse objetivo a aplicação será um software de recompensas, quanto mais a pessoa doar alimentos, mais pontos irá acumular. Seus pontos podem ser posteriormente trocados por recompensas ou em produtos conveniados por lojas.</br>
