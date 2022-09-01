@@ -13,7 +13,7 @@ API será responsável por persistir os dados necessários dos usuários, seus p
 ## FEATURES
 - Usamos projeto de software DAO.
 - Classe Service chama os métodos da classe que implementa a interface DAO e retorna para classe Controller.
-- O objetivo da classe Serivce é obter as informações necessárias que a classe Controller precisa.
+- O objetivo da classe Service é obter as informações necessárias que a classe Controller precisa.
 - Classe que implementa a interface DAO, responsável por toda lógica do banco(SELECT, UPDATE, DELTE, INSERT).
 - Controller faz as requests com o servidor e retorna para a camada service.
 - Controller recebe as annotations(GET, PUT, DELTE, EDIT, POST).
